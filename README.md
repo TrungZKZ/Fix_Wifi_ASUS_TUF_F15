@@ -29,17 +29,3 @@ Sau khi chạy xong, hệ thống **có thể yêu cầu khởi động lại** 
 - Hệ thống mạng Wi-Fi hoặc Ethernet đang gặp lỗi hoặc kết nối không ổn định
 
 ---
-
-## Hướng dẫn sử dụng
-
-### Cách chạy bằng chuột
-1. Nhấp chuột phải vào `Fix-Wifi.bat`
-2. Chọn **Run as administrator**
-3. Chờ script chạy xong hoàn toàn
-4. Khởi động lại máy nếu được yêu cầu
-
-### Cách chạy từ Command Prompt (Admin)
-```bat
-cmd (Run as administrator)
-cd <thư_mục_chứa_file>
-Fix-Wifi.bat
