@@ -1,7 +1,6 @@
 # Fix_Wifi_ASUS_TUF_F15
 
 `Fix-Wifi.bat` là một script được viết bằng Batch nhằm khắc phục nhanh các lỗi Wi-Fi và mạng Internet trên Windows.  
-Thay vì phải tự gõ từng lệnh trong Command Prompt, script sẽ tự động thực hiện toàn bộ quá trình sửa lỗi chỉ với một lần chạy.
 
 > ⚠ **Lưu ý quan trọng:** Script **bắt buộc phải chạy bằng quyền Administrator (Run as administrator)** để toàn bộ lệnh hoạt động chính xác.
 
