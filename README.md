@@ -7,7 +7,7 @@ Thay vì phải tự gõ từng lệnh trong Command Prompt, script sẽ tự đ
 
 ---
 
-## 🚀 Chức năng
+## Chức năng
 
 Script sẽ thực hiện lần lượt các thao tác sửa lỗi mạng (tùy theo nội dung file):
 
@@ -22,7 +22,7 @@ Sau khi chạy xong, hệ thống **có thể yêu cầu khởi động lại** 
 
 ---
 
-## 🖥 Yêu cầu hệ thống
+## Yêu cầu hệ thống
 
 - Windows 10 / Windows 11 (hoặc Windows tương thích)
 - Quyền Administrator
@@ -30,7 +30,7 @@ Sau khi chạy xong, hệ thống **có thể yêu cầu khởi động lại** 
 
 ---
 
-## 📌 Hướng dẫn sử dụng
+## Hướng dẫn sử dụng
 
 ### Cách chạy bằng chuột
 1. Nhấp chuột phải vào `Fix-Wifi.bat`
